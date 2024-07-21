@@ -40,7 +40,8 @@ To get a local copy up and running, follow these steps:
 
 2. Navigate to the Project Directory:
 
-cd alipress-cargo
+     cd alipress-cargo
+
 
 ## Usage
 Open the index.html file in your preferred web browser.
@@ -57,3 +58,4 @@ Open a Pull Request
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
+
