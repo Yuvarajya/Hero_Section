@@ -2,7 +2,7 @@
 
 Alipress Cargo is a project aimed at providing simple, easy, and fast shipping solutions for packages. This web application features a clean, modern design and user-friendly interface.
 
-<img src="./images/cover.png" alt="Alipress Cargo Cover Image">
+<img src="./Results/cover.png" alt="Alipress Cargo Cover Image">
 
 ## Table of Contents
 
